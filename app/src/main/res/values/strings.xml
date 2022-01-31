@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DailyNovel</string>
+    <string name="write_guide_1">오늘 하루 중에서 가장 중요했거나 생각나는 단어가 무엇일까요?</string>
+    <string name="write_guide_2">어떤 사람의 시점으로 글을 쓰고 싶으신가요?</string>
+    <string name="write_guide_3">어떠한 글의 종류로 정리하고 싶으신가요?</string>
+    <string name="poem_guide_1">1. 왜 오늘의 토픽이 되었는지 생각해보세요.</string>
+    <string name="poem_guide_2">2. 구체적인 비유나 생생한 묘사를 떠올려보세요.</string>
+    <string name="poem_guide_3">3. 시의 마지막 지점에 전체를 관통할 전환점을 넣어보세요.</string>
+    <string name="poem_guide_4">4. 화자가 내가 아니라면 그 사람의 시점으로 생각해보세요.</string>
+    <string name="poem_guide_5">5. 잘 정리가 안된다면 생각나는 대로 흐르듯이 다 적어보아도 괜찮아요.</string>
+    <string name="free_guide_1">1. 왜 오늘의 토픽이 되었는지 생각해보세요.</string>
+    <string name="free_guide_2">2. 구체적인 비유나 생생한 묘사를 떠올려보세요.</string>
+    <string name="free_guide_3">3. 화자가 내가 아니라면 그 사람의 시점으로 생각해보세요.</string>
+    <string name="free_guide_4">4. 오늘 내가 느낀 감정들과 생각들을 떠올려보세요.</string>
+    <string name="free_guide_5">5. 잘 정리가 안된다면 생각나는 대로 흐르듯이 다 적어보아도 괜찮아요.</string>
+
+</resources>

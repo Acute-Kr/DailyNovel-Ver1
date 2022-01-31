@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100455870498",
+    "project_id": "dailynovel-2c718",
+    "storage_bucket": "dailynovel-2c718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100455870498:android:c49e56cc2d4a092730da7b",
+        "android_client_info": {
+          "package_name": "com.example.dailynovel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100455870498-up9gcbg8fr65gen1loltjhmp3muj0kam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSByIiUUpYEikfAHjbY-fF58iO75m30j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100455870498-up9gcbg8fr65gen1loltjhmp3muj0kam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
